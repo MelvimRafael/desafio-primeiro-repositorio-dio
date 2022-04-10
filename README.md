@@ -1,2 +1,4 @@
 # desafio-primeiro-repositorio-dio
-desafio para criação do primeiro repositorio na plataforma DIO
+desafio de projeto GIT/GITHUB
+
+
